@@ -11,7 +11,9 @@ Senior Laravel Developer coding challenge to build a robust API for ticket reser
 - [x] Database schema design
 - [x] API endpoints definition
 - [x] Comprehensive documentation creation
-- [ ] GitHub repository initialization (in progress)
+- [x] GitHub repository initialization
+
+**GitHub Repository**: https://github.com/Holytear/concurrent-ticket-reservation-api
 
 ## Technical Decisions Log
 

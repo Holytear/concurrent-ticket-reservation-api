@@ -4,6 +4,8 @@
 
 A production-ready API for handling ticket reservations with robust concurrency control to prevent overselling under high load. This system ensures that a limited inventory of tickets is never exceeded, even with thousands of simultaneous requests.
 
+**🔗 GitHub Repository**: [https://github.com/Holytear/concurrent-ticket-reservation-api](https://github.com/Holytear/concurrent-ticket-reservation-api)
+
 ---
 
 ## 1️⃣ Concurrency Strategy: Deep Dive & Trade-offs
