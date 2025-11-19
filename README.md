@@ -307,8 +307,3 @@ But for most real-world scenarios, this is plenty.
 - SQL injection prevented by Eloquent
 - Rate limiting on API routes
 
----
-
-## License
-
-MIT - do whatever you want with it
